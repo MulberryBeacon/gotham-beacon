@@ -1,0 +1,46 @@
+/* TEAM */
+Developer: Eduardo Ferreira
+Site: http://gothambeacon.com
+Twitter: @MulberryBeacon
+Google+: https://plus.google.com/110281179271243191202
+Location: Lisbon, Portugal
+
+
+/* THANKS */
+Why: HTML5 Boilerplate
+Developer: Nicolas Gallagher, Paul Irish, Mathias Bynens, Divya Manian, and Hans Christian Reinl
+Twitter: @h5bp
+Site: http://html5boilerplate.com/
+
+Why: ASCII art on this file
+Artist: Christopher Johnson
+Site: http://www.chris.com/
+From: San Francisco, CA, USA
+
+
+/* SITE */
+Last update: 2013/05/24
+Language: English
+Standards: HTML5, CSS3, humanstxt.org
+Components: HTML5 Boilerplate, Initializr
+CMS: Jekyll
+Software: Sublime Text 2, Vim, Git
+
+
+
+MMMMMMMMMMMMMMMMMMMMM.                             MMMMMMMMMMMMMMMMMMMMM
+ `MMMMMMMMMMMMMMMMMMMM           M\  /M           MMMMMMMMMMMMMMMMMMMM'
+   `MMMMMMMMMMMMMMMMMMM          MMMMMM          MMMMMMMMMMMMMMMMMMM'
+     MMMMMMMMMMMMMMMMMMM-_______MMMMMMMM_______-MMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+     .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                   `MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM'
+                          `MMMMMMMMMMMMMMMMMM'
+                              `MMMMMMMMMM'
+                                 MMMMMM
+                                  MMMM
+                                   MM
+
