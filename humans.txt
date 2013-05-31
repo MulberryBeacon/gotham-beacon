@@ -1,12 +1,14 @@
-/* TEAM */
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
 Developer: Eduardo Ferreira
 Site: http://gothambeacon.com
 Twitter: @MulberryBeacon
 Google+: https://plus.google.com/110281179271243191202
 Location: Lisbon, Portugal
 
-
-/* THANKS */
+# THANKS
 Why: HTML5 Boilerplate
 Developer: Nicolas Gallagher, Paul Irish, Mathias Bynens, Divya Manian, and Hans Christian Reinl
 Twitter: @h5bp
@@ -17,12 +19,13 @@ Artist: Christopher Johnson
 Site: http://www.chris.com/
 From: San Francisco, CA, USA
 
-
-/* SITE */
+# SITE
 Last update: 2013/05/24
 Language: English
+
+# TECHNOLOGY COLOPHON
 Standards: HTML5, CSS3, humanstxt.org
-Components: HTML5 Boilerplate, Initializr
+Components: HTML5 Boilerplate, Normalize.css, jQuery, Modernizr
 CMS: Jekyll
 Software: Sublime Text 2, Vim, Git
 
