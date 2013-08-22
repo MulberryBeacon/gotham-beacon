@@ -1,5 +1,9 @@
-name: Gotham Beacon
-safe: true
-lsi: false
-pygments: true
-permalink: pretty
+name:		Eduardo Ferreira
+
+baseurl:	/
+url:		http://eduardoferreira.me
+permalink:  pretty
+
+safe:		true
+lsi:		false
+pygments:	true

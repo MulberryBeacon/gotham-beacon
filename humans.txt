@@ -3,7 +3,7 @@
 
 # TEAM
 Developer: Eduardo Ferreira
-Site: http://gothambeacon.com
+Site: http://eduardoferreira.me
 Twitter: @MulberryBeacon
 Google+: https://plus.google.com/110281179271243191202
 Location: Lisbon, Portugal
@@ -14,18 +14,23 @@ Developer: Nicolas Gallagher, Paul Irish, Mathias Bynens, Divya Manian, and Hans
 Twitter: @h5bp
 Site: http://html5boilerplate.com/
 
+Why: Bootstrap
+Developer: Jacob Thornton and Mark Otto
+Twitter: @twbootstrap
+Site: http://getbootstrap.com/
+
 Why: ASCII art on this file
 Artist: Christopher Johnson
 Site: http://www.chris.com/
 From: San Francisco, CA, USA
 
 # SITE
-Last update: 2013/05/24
+Last update: 2013/08/31
 Language: English
 
 # TECHNOLOGY COLOPHON
 Standards: HTML5, CSS3, humanstxt.org
-Components: HTML5 Boilerplate, Normalize.css, jQuery, Modernizr
+Components: HTML5 Boilerplate, Bootstrap, Normalize.css, jQuery, Modernizr
 CMS: Jekyll
 Software: Sublime Text 2, Vim, Git
 

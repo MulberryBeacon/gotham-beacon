@@ -1,23 +1,112 @@
-.pure-button-success,
-.pure-button-error,
-.pure-button-warning,
-.pure-button-secondary {
-    color: white;
-    border-radius: 4px;
-    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+/*
+ * Font family updated to Courier New
+ */
+body {
+	font-family: "Courier New", Courier, monospace;
+/*	background-color: #000000;*/
 }
 
-.pure-button-success {
-    background: rgb(76, 201, 71); /* this is a green */
+/*
+ *
+ */
+div.terminal-header {
+	background-color: #E5E4E2;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	padding-top: 5px;
 }
 
-.pure-button-error {
-    background: rgb(202, 60, 60); /* this is a maroon */
+.terminal-header p {
+	font-weight: bold;
+	text-align: center;
 }
 
-.pure-button-warning {
-    background: orange;
+.terminal-header ul {
+	margin: 0px 7px 0px;
+	padding: 0;
+	list-style: none;
 }
 
-.pure-button-secondary {
-    background: rgb(95, 198, 218); /* this is a light blue */
+.terminal-header li {
+	display: inline;
+	padding-right: 10px;
+}
+
+div.terminal-body > pre {
+	background-color: #000000;
+	border: 1px solid #E5E4E2;
+	border-radius: 0px;
+	color: #00FF00;
+	padding: 1px;
+}
+
+div.terminal-slider {
+
+}
+
+/*
+ * Removes top margin from the line separating the page footer from the content section
+ */
+footer > hr {
+	margin-top: 0;
+}
+
+/*
+ * Reshape the ASCII logo in the header
+ */
+pre.header-logo {
+	background-color: #FFFFFF;
+	border: none;
+	font-size: 0.3em;
+	line-height: 1.0em;
+	margin: 0;
+	padding: 0;
+}
+
+/*
+ *
+ */
+/*div.row-fluid > div {
+	border: 1px solid #EEEEEE;
+	padding: 5px;
+}*/
+
+/*
+ * Lighter theme for posts
+ */
+article {
+	background: #FAFAFA; /* #FEFCFF*/
+	border: 1px solid #1B1B1B;
+	border-radius: 7px;
+	color: #000000;
+	margin-bottom: 20px;
+	-webkit-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
+	-moz-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
+	box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
+}
+
+article > div {
+	padding: 10px 10px 0;
+}
+
+.post-header,
+.post-footer {
+	background: #E5E4E2;
+}
+
+.post-header {
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-bottom: 1px dotted #1B1B1B;
+	padding-bottom: 10px;
+}
+
+.post-header h3.post-title {
+	margin: 0 0 -8px;
+}
+
+.post-footer {
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-top: 1px dotted #1B1B1B;
+}
