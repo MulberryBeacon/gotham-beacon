@@ -1,0 +1,44 @@
+/*
+ *
+ */
+table.table > thead > tr > th.info {
+	width: 80%;
+}
+
+/*
+ *
+ */
+div.terminal-header {
+	background-color: #E5E4E2;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	padding-top: 5px;
+}
+
+.terminal-header p {
+	font-weight: bold;
+	text-align: center;
+}
+
+.terminal-header ul {
+	margin: 0px 7px 0px;
+	padding: 0;
+	list-style: none;
+}
+
+.terminal-header li {
+	display: inline;
+	padding-right: 10px;
+}
+
+div.terminal-body > pre {
+	background-color: #000000;
+	border: 1px solid #E5E4E2;
+	border-radius: 0px;
+	color: #00FF00;
+	padding: 1px;
+}
+
+div.terminal-slider {
+
+}

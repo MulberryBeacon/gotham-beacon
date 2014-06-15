@@ -1,9 +1,12 @@
-name:		Eduardo Ferreira
+name:        Eduardo Ferreira
+description: This site provides an overview of my professional career, personal interests and current projects.
 
-baseurl:	/
-url:		http://eduardoferreira.me
-permalink:  pretty
+user:    Eduardo Ferreira
+url:     http://eduardoferreira.me
+baseurl: /
 
-safe:		true
-lsi:		false
-pygments:	true
+markdown:    rdiscount
+permalink:   pretty
+safe:        true
+lsi:         false
+highlighter: pygments

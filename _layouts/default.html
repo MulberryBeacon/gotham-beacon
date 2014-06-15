@@ -34,96 +34,7 @@
 			</header>
 
 			<!-- ==================== Content section ==================== -->
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h3 class="panel-title">WHO AM I?</h3>
-						</div>
-						<div class="panel-body">
-							As you may have figured out by now, I'm <strong>not</strong> Bruce Wayne. My name is Eduardo Ferreira and I'm just your garden-variety software developer. I fell in love with computers from the moment I saw "Tron" and "War Games" when I was a kid. My first computer was a ZX Spectrum +2B (a couple of close friends still make fun of me because I never had an Atari...).
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h3 class="panel-title">WHAT DO I DO FOR A LIVING?</h3>
-						</div>
-						<div class="panel-body">
-							I started out as a research assistant at the <a href="http://nlx.di.fc.ul.pt/" target="_new">NLX-Group</a>, affiliated to the Department of Informatics of the University of Lisbon, Faculty of Sciences. The group pursues research and development activities in the fields of artificial intelligence and cognitive science, with a special focus on natural language and speech interaction. During my time with the group, I developed a named entity recognizer for the Portuguese language which covered entities based on numbers (arabic, roman, fraction and magnitude numerals, measures, time expressions, etc.) and names (people, organizations, locations, etc.).
-
-							Cue the enterprise world. So far, I've basically done a bit of everything by working at several companies that represent a significant subset of what the IT market has to offer (information technologies, billing, telecommunications, pharmaceutical industry, internet search technologies and insurance industry):
-						<ul>
-							<li>Coriant</li>
-							<li>Google</li>
-							<li>Hovione</li>
-							<li>Nokia Siemens Networks</li>
-							<li>PT SI</li>
-							<li>TMN</li>
-							<li>VICTORIA Seguros</li>
-						</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h3 class="panel-title">WHAT AM I WORKING ON?</h3>
-						</div>
-						<div class="panel-body">
-							I'm currently focused on the following list of projects (of all sizes and shapes):
-							<ul>
-								<li>Develop a major personal project in Python</li>
-								<li>Create a set of Natural Language Processing tools</li>
-								<li>Develop a regular expression engine</li>
-								<li>Explore the wonderful world of: Python and Django | HTML5 and CSS3 | MySQL | Node.js | Mobile SDKs (Google Android and Apple iOS)</li>
-							</ul>
-							My favorite technologies are:
-							<ul>
-								<li>Java</li>
-								<li>JavaScript</li>
-								<li>LaTeX2e</li>
-								<li>Python</li>
-								<li><a href="http://xkcd.com/208/" target="_new">Regular Expressions</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h3 class="panel-title">WHAT MAKES MY CLOCK TICK?</h3>
-						</div>
-						<div class="panel-body">
-							My main interests span several areas of expertise:
-							<ul>
-								<li>Algorithms</li>
-								<li>Artificial intelligence</li>
-								<li>Data structures</li>
-								<li>Mathematics</li>
-								<li>Natural language processing</li>
-								<li>Problem solving</li>
-								<li>Programming languages and techniques</li>
-							</ul>
-							While I''m not at work, I tend to keep my brain busy with:
-							<ul>
-								<li>Cinema (more like an obsession... I wouldn''t hesitate to call myself a movie snob)</li>
-								<li>Comic books</li>
-								<li>LEGO</li>
-								<li>Puzzles</li>
-								<li>Reading</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
+			{{ content }}
 			<br />
 
 			<!-- ==================== Footer ==================== -->
@@ -131,7 +42,7 @@
 				<hr>
 				<p class="text-center">
 					<small>
-						&copy; Copyright 2013, <a href="http://eduardoferreira.me">Eduardo Ferreira</a>.
+						&copy; Copyright 2014, <a href="http://eduardoferreira.me">Eduardo Ferreira</a>.
 						<br>
 						Powered by <a href="http://jekyllrb.com">Jekyll</a> and <a href="http://pages.github.com">GitHub Pages</a>. Design based on <a href="http://html5boilerplate.com">HTML5 Boilerplate</a> and <a href="http://getbootstrap.com">Bootstrap</a>.
 					</small>
@@ -140,11 +51,11 @@
 		</div>
 
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-		<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-		<script src="js/plugins.js"></script>
+		<script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+		<!--<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>
-		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
+		<script src="js/vendor/modernizr-2.6.2.min.js"></script>-->
+		<script src="/js/bootstrap.min.js"></script>
 
 		<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 		<script>
