@@ -1,0 +1,190 @@
+Eduardo Luís de Paiva Ferreira
+Rua São Lourenço, Nº 20 – Foros de Amora
+2845-325 Amora, Portugal
+Telephone: (+351) 309 738 324
+Mobile: (+351) 96 334 84 97
+E-mail: mulberry.beacon@gmail.com
+Nationality: Portuguese
+Date of birth: 07-05-1981
+Gender: Male
+
+
+WORK EXPERIENCE
+===============
+Software Engineer
+Nokia Siemens Networks :: June 2012 - Present
+* Maintenance work on the application responsible for managing the TL1
+communication protocol used in the hiT 7300 and hiT 7100 network equipment.
+* Technologies: Eclipse, Java, OSGi, Jenkins, Subversion.
+
+Java Developer
+VICTORIA Seguros :: May 2011 – April 2012
+* Implement Web applications for the core business operations. These are
+accessible to the network of agents and providers working with VICTORIA Seguros
+and their goal is to simplify procedures that were done manually (filling claims
+for auto and work accidents, scheduling vehicle appraisals, health insurance
+simulations, etc.).
+* Technologies: Eclipse, Java EE, Spring Framework, HTML, CSS, JavaScript,
+jQuery, Apache Tomcat, Maven, Jenkins, Git.
+
+Informix 4GL Developer
+TMN :: January 2010 – April 2011
+* Implement projects (analysis, budget, development, testing and documentation)
+within the wireless billing application. Some of them consisted in configuring
+new price plans, updating the conditions of current price plans, discontinuing
+obsolete service plans, defining new rules for breach of contracts and migrating
+applications between HP-UX and Linux execution environments.
+* Technologies: ZOC, Putty, Filezilla, Informix database, 4GL, Harvest.
+
+Category Localization Specialist
+Google :: October 2009 – December 2009
+* Improvement of the search quality for business oriented queries in Google Maps
+in Portugal.
+
+Analyst/Programmer
+Hovione :: December 2008 – September 2009
+* ABAP application development and maintenance work on some of the SAP modules
+(Users and Profiles, FI/CO, MM, WM, QM and PP);
+* Maintenance work (corrections, updates and new developments) on internal Web
+applications and institutional websites;
+* Technical support of the IT infrastructure in the plant (server and network
+equipment maintenance, helpdesk requests, etc.).
+* Technologies: ABAP, SAPScript, Microsoft Access (2003 and 2007), Microsoft SQL
+Server (2000 and 2005), Microsoft IIS (v5.0 and v6.0), HTML, CSS, Javascript,
+VBScript, ASP.
+
+Informix 4GL Developer
+TMN :: June 2008 – November 2008
+* Maintenance work on the wireless billing application. The goal was to go
+through an extensive backlog of pending requests, allowing the team to achieve
+specific internal performance metrics.
+* Technologies: ZOC, Putty, Filezilla, Informix database, 4GL, Harvest.
+
+SAP Portals Developer
+PT SI :: June 2007 – May 2008
+* Implementation of the Portal de Pós-Venda (After-Sales Portal), a system
+designed to simplifly and optimize the after-sales service provided by stores
+that sell Portugal Telecom products.
+* Technologies: HTMLB, BSP, ABAP.
+
+Research Assistant
+NLX-Group :: January 2005 – May 2007
+* The NLX-Group pursues research and development activities in the fields of
+artificial intelligence and cognitive science, with a special focus on natural
+language and speech interaction;
+* Development of a named entity recogniser (NER) for the TagShare project, whose
+purpose was to develop a set of linguistic resources and software components to
+support the computational shallow morpho-syntatic processing of Portuguese;
+* The NER covered entities based on numbers and names.
+* Technologies: Java, JSP, HTML, CSS, JavaScript, JSP, JFlex, TnT (Hidden Markov
+model), MXPost (Maximum Entropy).
+
+
+EDUCATION
+=========
+Department of Informatics - Faculty of Science of the University of Lisbon
+BSc in Informatics Engineering :: October 1999 - present
+Level: 14 out of 20
+
+Department of Informatics - Faculty of Science of the University of Lisbon
+MSc in Informatics Engineering :: September 2006 - present
+Level: 15 out of 20
+
+
+TECHNICAL PROFICIENCIES
+=======================
+* Java SE/EE
+* C
+* Python
+* Ruby
+* PL/SQL
+* VBScript, ASP
+* HTML, CSS
+* XML
+* Javascript, jQuery
+* Haskell
+* SICStus Prolog
+* SAP ABAP, SAPScript
+* SAP HTMLB, BSP
+
+
+SOFTWARE PROFICIENCIES
+======================
+* Microsoft SQL Server (2000, 2005)
+* Microsoft Access (2003, 2007)
+* MySQL
+* Informix
+* Microsoft IIS (5.0, 6.0)
+* Git
+* Subversion
+* Harvest
+* Apache Tomcat
+* Jenkins
+* Maven
+* Windows (2000, XP, 7)
+* Linux (Fedora, Debian, Ubuntu, Mint)
+* Microsoft Office and OpenOffice
+
+
+LANGUAGES
+=========
+Portuguese :: mother tongue
+English :: Proficient understanding, reading and writing
+French :: Rudimentary understanding, reading and writing
+Spanish :: Rudimentary understanding, reading and writing
+German :: Rudimentary understanding, reading and writing
+
+
+ADDITIONAL INFORMATION
+======================
+* Practised Taekwondo for 12 years, having earned a 1st Dan black belt degree.
+During this period, I was a registered athlete at the FPT (Federação Portuguesa
+de Taekwondo) and ATE (Associação de Taekwondo da Estremadura);
+* In the absence of my Taekwondo Master, I was responsible for organising the
+scheduled training sessions, managing groups of 10 to 30 athletes on average
+with ages between 8 and 45;
+* Performed hardware repairs on personal computers as a freelancer;
+* Had music classes with a private professor for a period of 8 years in which I
+learned to play the organ;
+* Interest in several sports (football, Taekwondo, tennis and handball);
+* Reading habits which span over several literary genres, with an emphasis on
+romances, science fiction, terror, graphical novels and comics;
+* Passionate about cinema, with the hobby of studying the history of motion
+pictures;
+* Reader of technology related publications (hardware, software and scientific
+areas of personal interest) to keep up to date on the current technological
+advances and trends;
+* Listener of all kinds of music, with a clear preference for rock, pop and
+classical music; 
+* Self-learning of several foreign languages, such as German, Spanish and French
+* Driving licence (Category B)
+
+
+PUBLISHED PAPERS
+================
+* F. Barreto, A. Branco, E. Ferreira, A. Mendes, M. F. Bacelar do Nascimento, F. Nunes and
+J. Silva, 2006. Open Resources and Tools for the Shallow Processing of Portuguese: The
+TagShare Project. In LREC'06
+* F. Barreto, A. Branco, E. Ferreira, A. Mendes, M. F. Bacelar do Nascimento, F. Nunes and
+J. Silva, 2006. Linguistic Resources and Software for Shallow Processing. In APL'05
+* E. Ferreira, J. Balsa and A. Branco, 2007. Combining Rule-based and Statistical Methods
+for Named Entity Recognition in Portuguese. In TIL'07
+
+
+REFERENCE GRADES
+================
+* Calculus: 19
+* Graphical Computation: 17
+* Algorithm Design and Analysis: 17
+* Programming Principles: 17
+* Probabilities and Statistics: 17
+* Social Simulation: 17
+* Operating Systems: 17
+* Algorithms and Data Structures: 16
+* Formal Languages and Automata: 16
+* Knowledge Engineering: 15
+* Natural Language Interaction: 15
+* Quantitative Language Modelling: 15
+* Database Technologies: 15
+* Artificial Life: 15
+
