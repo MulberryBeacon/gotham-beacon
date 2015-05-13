@@ -1,11 +1,11 @@
-eduardoferreira.me
+mulberrybeacon.com
 ==================
 
 This is the source code for my personal website.
 
 ## License
 
-Copyright (c) 2014 Eduardo Ferreira
+Copyright (c) 2014-2015 Eduardo Ferreira
 
 All files, directories and code provided by Bootstrap are licensed under the
 Apache License v2.0.
