@@ -15,5 +15,5 @@ under the MIT License.
 
 All other files, directories and code are MIT licensed, and therefore free to
 use as you please for commercial or non-commercial purposes (see [LICENSE](LICENSE)
-for details). If you do use them, a link back to http://eduardoferreira.me would
+for details). If you do use them, a link back to http://mulberrybeacon.com would
 be appreciated.
