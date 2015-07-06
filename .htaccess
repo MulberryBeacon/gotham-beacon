@@ -880,9 +880,12 @@ FileETag None
 
   # JavaScript
 
-    ExpiresByType application/javascript                "access plus 1 year"
-    ExpiresByType application/x-javascript              "access plus 1 year"
-    ExpiresByType text/javascript                       "access plus 1 year"
+#    ExpiresByType application/javascript                "access plus 1 year"
+#    ExpiresByType application/x-javascript              "access plus 1 year"
+#    ExpiresByType text/javascript                       "access plus 1 year"
+    ExpiresByType application/javascript                "access plus 2 hours"
+    ExpiresByType application/x-javascript              "access plus 2 hours"
+    ExpiresByType text/javascript                       "access plus 2 hours"
 
 
   # Manifest files
@@ -994,7 +997,7 @@ FileETag None
 # https://www.google-analytics.com/analytics.js (2 hours)
 
 #<IfModule mod_headers.c>
-<FilesMatch "\.(js|css)$">
-    Header set Cache-Control "max-age=86400"
-</FilesMatch>
+#<FilesMatch "\.(js|css)$">
+#    Header set Cache-Control "max-age=86400"
+#</FilesMatch>
 #</IfModule>
