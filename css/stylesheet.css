@@ -1,6 +1,29 @@
-#main {
-    width: 70%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+ /*HTML elements */
+h1, h2 {
+    color: darkgreen;
 }
+
+ul {
+    margin-top: -10px;
+}
+
+li {
+    list-style-type: square;
+}
+
+/* Element IDs */
+#main {
+    width: 98%;
+    display: block;
+    font-size: 15px;
+}
+
+/* Fonts */
+/*@font-face {
+    font-family: FiraMono-Regular;
+    src: url('fonts/FiraMono-Regular.otf');
+}
+
+#main {
+    font-family: FiraMono-Regular;
+}*/
