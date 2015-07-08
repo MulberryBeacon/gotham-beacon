@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -8,21 +8,41 @@
         <meta name="description" content="This site provides an overview of my professional career, personal interests and current projects.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <link rel="author" href="humans.txt"/>
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!-- Place favicon.ico in the root directory -->
 
-        <style>            
+        <style>
+            /* Fonts */
+            @font-face {
+                font-family: FiraMono-Regular;
+                src: url('fonts/FiraMono-Regular.otf');
+            }
+
+            /* HTML elements */
+            h1, h2 {
+                color: darkgreen;
+            }
+
+            ul {
+                margin-top: -10px;
+            }
+
+            li {
+                list-style-type: square;
+            }
+
+            /* Element IDs */
             #main {
-                width: 70%;
+                width: 75%;
                 display: block;
                 margin-left: auto;
                 margin-right: auto;
+                font-family: FiraMono-Regular;
+                font-size: 15px;
             }
         </style>
         <!--<link rel="stylesheet" href="css/stylesheet.css">-->
-        <!--<link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">-->
-        <!--<script src="js/vendor/modernizr-2.8.3.min.js"></script>-->
     </head>
     <body>
         <!--[if lt IE 8]>
@@ -37,12 +57,9 @@
             <hr>
 
             <section id="hello">
-                <h2>Hello!</h2>
+                <h2>Hey!</h2>
                 <p>
                     My name is Eduardo Ferreira. I'm a software developer / engineer / analyst / programmer / whatever. Basically, I do stuff with computers. I kinda fell in love with them from the moment I saw "Tron" and "War Games" when I was a kid. My first computer was a ZX Spectrum +2B (a couple of friends still make fun of me because I never had an Atari...).
-                </p>
-                <p>
-                    PS: yes, I haven't included any CSS. I'm doing a bit of a facelift on the site and have been focusing solely on content. Please, read on. Go on. Do it. You know you want to.
                 </p>
             </section>
 
@@ -138,7 +155,7 @@
 
             <section id="publications">
                 <h2>Publications</h2>
-                <div class="alert alert-warning">
+                <div>
                     <p>
                         <strong>N.B.</strong>: The documents contained in this directory are included by the contributing authors as a way to ensure timely dissemination of scholarly and technical work on a non-commercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.
                     </p>
@@ -166,17 +183,14 @@
             <section id="follow">
                 <h2>Follow me</h2>
                 <p>
-                    You can follow me on <a href="http://plus.google.com/+EduardoFerreiraMulberryBeacon/posts">Google+</a> and <a href="http://twitter.com/MulberryBeacon">Twitter</a>, although I haven't been very active lately.
-                </p>
-                <p>
-                    I occasionally write some tidbits on my <a href="http://gothambeacon.com">blog</a> (English only, sorry).
+                    You can follow me on <a href="http://plus.google.com/+EduardoFerreiraMulberryBeacon/posts">Google+</a> and <a href="http://twitter.com/MulberryBeacon">Twitter</a>, although I haven't been very active lately. I occasionally write some tidbits on my <a href="http://gothambeacon.com">blog</a> (English only).
                 </p>
             </section>
 
             <section id="contact">
                 <h2>Get in touch!</h2>
                 <p>
-                    If you're interested, feel free to send me an e-mail at mulberry.beacon@gmail.com for just about any reason. I'm available for occasional consulting, so if you think you'd like to work with me, just ping me. 
+                    If you're interested, feel free to send me an e-mail at mulberry[dot]beacon[at]gmail[dot]com for just about any reason. I'm available for occasional consulting, so if you think I'd might be able to help you out in any way, just ping me. 
                 </p>
             </section>
     
@@ -185,7 +199,7 @@
             <footer>
                 <p>
                     <small>
-                        &copy; Copyright 2014-2015, <a href="http://eduardoferreira.me">Eduardo Ferreira</a>.
+                        &copy; Copyright 2014-2015, Eduardo Ferreira.
                         <br>
                         Powered by <a href="http://pages.github.com">GitHub Pages</a>. Design based on <a href="http://html5boilerplate.com">HTML5 Boilerplate</a>.
                     </small>
@@ -193,14 +207,13 @@
             </footer>
         </div>
 
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
             (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
             function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
             e=o.createElement(i);r=o.getElementsByTagName(i)[0];
             e.src='https://www.google-analytics.com/analytics.js';
             r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-            ga('create','UA-32484218-1','auto');ga('send','pageview');
+            ga('create','UA-32484218-1','mulberrybeacon.com');ga('send','pageview');
         </script>
     </body>
 </html>
