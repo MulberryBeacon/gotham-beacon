@@ -14,16 +14,6 @@ li {
 /* Element IDs */
 #main {
     width: 98%;
-    display: block;
+    font-family: Fira Mono;
     font-size: 15px;
 }
-
-/* Fonts */
-/*@font-face {
-    font-family: FiraMono-Regular;
-    src: url('fonts/FiraMono-Regular.otf');
-}
-
-#main {
-    font-family: FiraMono-Regular;
-}*/
