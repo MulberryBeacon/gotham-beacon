@@ -20,13 +20,12 @@ Site: http://www.chris.com/
 From: San Francisco, CA, USA
 
 # SITE
-Last update: 2015/07/06
+Last update: 2016/04/27
 Language: English
 
 # TECHNOLOGY COLOPHON
 Standards: HTML5, CSS3, humanstxt.org
 Components: HTML5 Boilerplate, Apache Server Configs, jQuery, Modernizr, Normalize.css
-CMS: Jekyll
 Software: Microsoft Visual Studio Code, Vim, Git
 
 MMMMMMMMMMMMMMMMMMMMM.                             MMMMMMMMMMMMMMMMMMMMM
