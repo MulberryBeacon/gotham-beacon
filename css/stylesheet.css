@@ -1,10 +1,6 @@
-/*HTML elements */
+/* HTML elements */
 h1, h2 {
     color: #006400;
-}
-
-ul {
-    margin-top: -10px;
 }
 
 li {
@@ -34,4 +30,11 @@ a:visited {
 a:hover {
     background-color: #90EE90;
     text-decoration: none;
+}
+
+/* Element IDs */
+#main {
+    width: 98%;
+    font-family: "Courier New", "Courier", "monospace";
+    font-size: 14px;
 }
