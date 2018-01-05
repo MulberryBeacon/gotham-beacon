@@ -3,9 +3,8 @@
 
 # TEAM
 Developer: Eduardo Ferreira
-Site: http://mulberrybeacon.com
+Site: https://mulberrybeacon.com
 Twitter: @MulberryBeacon
-https://plus.google.com/+EduardoFerreiraMulberryBeacon
 Location: London, United Kingdom
 
 # THANKS
