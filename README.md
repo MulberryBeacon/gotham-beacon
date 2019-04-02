@@ -5,7 +5,7 @@ This is the source code for my personal website.
 
 ## License
 
-Copyright (c) 2014-2018 Eduardo Ferreira
+Copyright (c) 2014-2019 Eduardo Ferreira
 
 All files, directories and code provided by HTML5 Boilerplate are licensed
 under the MIT License.
