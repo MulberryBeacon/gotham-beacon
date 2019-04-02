@@ -1,4 +1,11 @@
 /* HTML elements */
+body {
+    font-family: "Courier New", "Courier", "monospace";
+    font-size: 16px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
 h1, h2 {
     color: #006400;
 }
@@ -30,9 +37,4 @@ a:visited {
 a:hover {
     background-color: #90EE90;
     text-decoration: none;
-}
-
-/* Element IDs */
-#main {
-    font-family: "Courier New", "Courier", "monospace";
 }
